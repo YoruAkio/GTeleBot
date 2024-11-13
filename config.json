@@ -1,0 +1,5 @@
+{
+    "databasePath": "../GTMake/build/db",
+    "playerPath": "../GTMake/build/db/players",
+    "worldPath": "../GTMake/build/db/worlds"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "gtelebot",
+  "version": "0.1.0",
+  "description": "Telegram bot made for Growtopia Private Server to manage the server database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoruAkio/GTeleBot.git"
+  },
+  "author": "YoruAkio <yorakio@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoruAkio/GTeleBot/issues"
+  },
+  "homepage": "https://github.com/YoruAkio/GTeleBot#readme",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "dotenv": "^16.4.5",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.7"
+  }
+}
